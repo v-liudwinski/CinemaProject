@@ -1,0 +1,98 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+a {
+  list-style-type: none;
+}
+
+.navbar-link {
+  color: white !important;
+}
+
+.cursor-state {
+  cursor: pointer;
+}
+
+.align-right {
+  text-align: right;
+}
+.add-page {
+  min-height: 1000px;
+  width: 100%;  
+  background-size: cover;
+}
+
+.result {
+  width: 300px;
+  padding-top: 10px;
+  margin-top: 20px;
+}
+
+.dropzone-box {
+  display: flex;
+  height: 200px;
+  padding: 20px;
+  border: dashed 3px white;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  display: flex;
+  flex-direction: row;
+}
+
+.head img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-right: 30px;
+}
+
+.notation-box {
+  height: 200px;
+  width: 200px;
+  border: dashed 3px white;
+  border-radius: 8px;
+  margin-right: 30px;
+}
+
+.notation-box p{
+  text-align: center;
+  margin-top: 70px;
+}
+ 
+.movie-item:hover {
+  border: 1px red solid;
+}
+
+.movie:hover {
+  opacity: 50%;
+  transform: scale(1.1);
+}

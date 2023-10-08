@@ -1,0 +1,115 @@
+#main, #admin {
+    min-height: 600px;
+    width: 100%;  
+    background-size: cover;
+}
+
+#about_cinema {
+    width: 600px;   
+    color: white;
+    margin-top: 20px;
+    padding-top: 40px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    padding-bottom: 40px;
+}
+
+#main_header {
+    height: 110px;   
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_list, li {  
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 22px;
+    color: D9D9D9;
+    list-style-type: none;
+}
+
+.copyright {
+    height: 50px;
+    border-bottom: white;
+    font-size: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 100%;
+
+}
+
+#footer {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+}
+
+button {
+    background-color: rgb(113, 8, 8);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: aliceblue;
+    padding: 10px;   
+}
+
+#head {    
+    color:rgb(113, 8, 8);
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8px; 
+}
+
+li {
+    padding-top: 0;
+    margin-top: -14px;
+}
+
+#slide {
+    width: 80%;
+    height: 100%;
+    border: 3pt rgb(113, 8, 8) solid;
+    margin: 10px;
+    margin-top: 160px;
+    padding: 0;
+}
+
+#slide:hover {  
+    border: 3pt white solid;
+}
+
+.fnt {
+    font-size: 17px;
+}
+
+.social-media {
+    float: right;
+}
+
+
+.sales-button {
+    background-color: black;
+    border: none;
+}
+
+
+.movies:hover {
+    border: 1px white solid;
+}
+
+.reliese {
+    border-bottom: white;
+   
+}
+
+.header_list li:hover {
+    opacity: 50%;
+}
+
+.footer li:hover {
+    opacity: 50%;
+}

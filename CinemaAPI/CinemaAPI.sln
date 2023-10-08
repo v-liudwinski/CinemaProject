@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.UI", "Cinema.UI\Cinema.UI.csproj", "{B3EE7C33-ECA1-4EF3-9E42-4A83B4218CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Service", "Cinema.Service\Cinema.Service.csproj", "{49E8587A-C85B-461D-A88D-FC28E6ABD212}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Persistence", "Cinema.Persistence\Cinema.Persistence.csproj", "{06039B57-89AA-4156-BDC3-BC137B4D9BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Domain", "Cinema.Domain\Cinema.Domain.csproj", "{56241AAE-691F-417A-B621-767923A5B060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3EE7C33-ECA1-4EF3-9E42-4A83B4218CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EE7C33-ECA1-4EF3-9E42-4A83B4218CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EE7C33-ECA1-4EF3-9E42-4A83B4218CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EE7C33-ECA1-4EF3-9E42-4A83B4218CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E8587A-C85B-461D-A88D-FC28E6ABD212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E8587A-C85B-461D-A88D-FC28E6ABD212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E8587A-C85B-461D-A88D-FC28E6ABD212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E8587A-C85B-461D-A88D-FC28E6ABD212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06039B57-89AA-4156-BDC3-BC137B4D9BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06039B57-89AA-4156-BDC3-BC137B4D9BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06039B57-89AA-4156-BDC3-BC137B4D9BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06039B57-89AA-4156-BDC3-BC137B4D9BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56241AAE-691F-417A-B621-767923A5B060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56241AAE-691F-417A-B621-767923A5B060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56241AAE-691F-417A-B621-767923A5B060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56241AAE-691F-417A-B621-767923A5B060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
